@@ -279,3 +279,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+ClasesBase/Properties/*
+ClasesBase/app.config
